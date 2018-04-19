@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SecondLib_Example' do
+  pod 'SecondLib', :path => '../'
+
+  target 'SecondLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
