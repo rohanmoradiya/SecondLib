@@ -1,0 +1,16 @@
+PODS:
+  - Rohan123 (0.1.0)
+
+DEPENDENCIES:
+  - Rohan123 (from `../`)
+
+EXTERNAL SOURCES:
+  Rohan123:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Rohan123: 68c8dd645c32ff12b9513b529595d882fa976ff9
+
+PODFILE CHECKSUM: 38591507c4d5f4d5dbb8352c3141aad42f12fbf9
+
+COCOAPODS: 1.5.0

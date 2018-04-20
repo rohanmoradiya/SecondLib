@@ -1,0 +1,6 @@
+framework module Rohan123 {
+  umbrella header "Rohan123-umbrella.h"
+
+  export *
+  module * { export * }
+}

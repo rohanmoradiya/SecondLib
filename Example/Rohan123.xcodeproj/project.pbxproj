@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		0A1F6A1A10D9776981DBDE93 /* Pods_Rohan123_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Rohan123_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3CA31F1249CAEF02F7BB89F9 /* Rohan123.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = Rohan123.podspec; path = ../Rohan123.podspec; sourceTree = "<group>"; };
+		3CA31F1249CAEF02F7BB89F9 /* Rohan123.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Rohan123.podspec; path = ../Rohan123.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5B58FAEC6546E15CCD0F91B8 /* Pods-Rohan123_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rohan123_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Rohan123_Tests/Pods-Rohan123_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5CA7892DE0770D25F7208A38 /* Pods-Rohan123_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rohan123_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-Rohan123_Example/Pods-Rohan123_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* Rohan123_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rohan123_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -42,8 +42,8 @@
 		607FACE51AFB9204008FA782 /* Rohan123_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Rohan123_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		61C86DFC2E8801B508AD83D9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		620545F8115F853AB5EA60E5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		61C86DFC2E8801B508AD83D9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		620545F8115F853AB5EA60E5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B5DAE5838E3217486198A41B /* Pods_Rohan123_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Rohan123_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6F9AEA413BC8B9230182E90 /* Pods-Rohan123_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rohan123_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Rohan123_Example/Pods-Rohan123_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D6DB4C5059446E636692797A /* Pods-Rohan123_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rohan123_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Rohan123_Tests/Pods-Rohan123_Tests.release.xcconfig"; sourceTree = "<group>"; };

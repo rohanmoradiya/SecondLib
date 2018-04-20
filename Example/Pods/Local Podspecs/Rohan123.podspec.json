@@ -1,0 +1,22 @@
+{
+  "name": "Rohan123",
+  "version": "0.1.0",
+  "summary": "A short description of Rohan123.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rohanmoradiya/Rohan123",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rohanmoradiya": "rohanmoradiya@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rohanmoradiya/Rohan123.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Rohan123/Classes/**/*"
+}
